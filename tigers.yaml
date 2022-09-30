@@ -11,5 +11,11 @@ members:
 - Gamora
 - Nebula
 
+<<<<<<< HEAD
 coach: Ronan
 alias: cam "commit -am" 
+=======
+fetch: this
+
+coach: Ruth
+>>>>>>> 0f306be14d0ed68ba96efd02b93fdd6520674a69
